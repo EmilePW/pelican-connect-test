@@ -1,0 +1,22 @@
+.MemberDisplay {
+  table {
+    text-align: center;
+    width: 100%;
+
+    thead tr th {
+      width: 33%;
+      padding: 10px;
+    }
+
+    tbody tr {
+      &:nth-child(2n + 1) {
+        background: gainsboro;
+      }
+
+      td {
+        width: 33%;
+        padding: 10px;
+      }
+    }
+  }
+}

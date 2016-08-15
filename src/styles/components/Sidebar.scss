@@ -1,0 +1,20 @@
+.Sidebar {
+  float: left;
+  height: 80%;
+  width: 20%;
+
+  ul {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    justify-content: space-around;
+    list-style: none;
+    width: 100%;
+
+    .Option {
+      cursor: pointer;
+      padding: 10px;
+    }
+  }
+}

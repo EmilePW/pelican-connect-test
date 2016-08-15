@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Jimmy John",
+    "email": "jimjo@hotmail.com",
+    "schools": ["Eton College"]
+  },
+  {
+    "id": "2",
+    "name": "Clarissa Jones",
+    "email": "cjones@gmail.com",
+    "schools": ["Cheltenham Ladies' College", "The Perse School"]
+  },
+  {
+    "id": "3",
+    "name": "Michael Hood",
+    "email": "mhood.12@ninestiles.ac.uk",
+    "schools": ["Ninestiles School"]
+  },
+  {
+    "id": "4",
+    "name": "Ahmed Somji",
+    "email": "ahmsomji@gmail.com",
+    "schools": ["Ninestiles School", "King Edwards VI Camp Hill for Boys"]
+  },
+  {
+    "id": "5",
+    "name": "Sophie Hitchon",
+    "email": "sophitch@yahoo.co.uk",
+    "schools": ["The Perse School"]
+  }
+]

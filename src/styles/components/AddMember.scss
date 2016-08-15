@@ -1,0 +1,57 @@
+.AddMember {
+  height: 100%;
+
+  form {
+    float: left;
+    height: 50%;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+
+    label {
+      text-align: center;
+
+      p {
+        padding: 10px;
+      }
+
+      input, select {
+        padding: 10px;
+        text-align: center;
+        width: 250px;
+      }
+    }
+
+    .submit-member {
+      height: 40px;
+      width: 200px;
+    }
+  }
+
+  .display-new-member {
+    height: 50%;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+
+    .school-selected {
+      align-items: center;
+      background: gainsboro;
+      border: none;
+      color: red;
+      display: flex;
+      justify-content: space-around;
+      outline: none;
+      padding: 10px;
+
+      span {
+        color: #222;
+        padding-right: 10px;
+      }
+    }
+  }
+}
